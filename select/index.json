@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "決めたよHand in Hand",
+  "base_artist": "キュアアイドル(CV：松岡美里)、キュアウインク(CV：髙橋ミナミ)、キュアキュンキュン(CV：高森奈津美)、キミとアイドルプリキュア♪",
+  "createdAt": "2026-01-04T11:13:09.373743Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "決めたよHand in Hand",
+      "artist": "高海千歌(CV.伊波杏樹), 桜内梨子(CV.逢田梨香子) & 渡辺 曜(CV.斉藤朱夏)",
+      "has_synced": false,
+      "path": "select/01_決めたよHand_in_Hand_高海千歌(CV.伊波杏樹),_桜内梨子(CV.逢田梨香子)_&_渡辺_曜(CV.斉藤朱夏).txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "決めたよHand in Hand",
+      "artist": "高海千歌(CV.伊波杏樹)、桜内梨子(CV.逢田梨香子)、渡辺曜(CV.斉藤朱夏)",
+      "has_synced": false,
+      "path": "select/02_決めたよHand_in_Hand_高海千歌(CV.伊波杏樹)、桜内梨子(CV.逢田梨香子)、渡辺曜(CV.斉藤朱夏).txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "決めたよHand in Hand - [第1話挿入歌(TVサイズ)]",
+      "artist": "高海千歌 (CV.伊波杏樹) feat. 桜内梨子 (CV.逢田梨香子) & 渡辺 曜 (CV.斉藤朱夏)",
+      "has_synced": false,
+      "path": "select/03_決めたよHand_in_Hand_-_[第1話挿入歌(TVサイズ)]_高海千歌_(CV.伊波杏樹)_feat._桜内梨子_(CV.逢田梨香子)_&_渡辺_曜_(CV.斉藤朱夏).txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "決めたよHand in Hand",
+      "artist": "高海千歌 (CV.伊波杏樹) feat. 桜内梨子 (CV.逢田梨香子) & 渡辺 曜 (CV.斉藤朱夏)",
+      "has_synced": true,
+      "path": "select/04_決めたよHand_in_Hand_高海千歌_(CV.伊波杏樹)_feat._桜内梨子_(CV.逢田梨香子)_&_渡辺_曜_(CV.斉藤朱夏).lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "決めたよHand in Hand (桜内梨子 Solo Ver.)",
+      "artist": "桜内梨子(CV.逢田梨香子)",
+      "has_synced": true,
+      "path": "select/05_決めたよHand_in_Hand_(桜内梨子_Solo_Ver.)_桜内梨子(CV.逢田梨香子).lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "決めたよHand in Hand - 高海千歌 Solo Ver.",
+      "artist": "高海千歌 (CV.伊波杏樹) from Aqours",
+      "has_synced": true,
+      "path": "select/06_決めたよHand_in_Hand_-_高海千歌_Solo_Ver._高海千歌_(CV.伊波杏樹)_from_Aqours.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "決めたよHand in Hand (高海千歌 Solo Ver.)",
+      "artist": "高海千歌 (CV.伊波杏樹)",
+      "has_synced": true,
+      "path": "select/07_決めたよHand_in_Hand_(高海千歌_Solo_Ver.)_高海千歌_(CV.伊波杏樹).lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "決めたよHand in Hand",
+      "artist": "高海千歌(CV. 伊波杏樹), 桜内梨子(CV. 逢田梨香子), 渡辺曜(CV. 斉藤朱夏)",
+      "has_synced": false,
+      "path": "select/08_決めたよHand_in_Hand_高海千歌(CV._伊波杏樹),_桜内梨子(CV._逢田梨香子),_渡辺曜(CV._斉藤朱夏).txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "決めたよHand in Hand (桜内梨子 Solo Ver.)",
+      "artist": "桜内梨子(CV.逢田梨香子) from Aqours",
+      "has_synced": true,
+      "path": "select/09_決めたよHand_in_Hand_(桜内梨子_Solo_Ver.)_桜内梨子(CV.逢田梨香子)_from_Aqours.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "決めたよHand in Hand (渡辺曜 Solo Ver.)",
+      "artist": "渡辺曜(CV.斉藤朱夏)",
+      "has_synced": false,
+      "path": "select/10_決めたよHand_in_Hand_(渡辺曜_Solo_Ver.)_渡辺曜(CV.斉藤朱夏).txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "決めたよHand in Hand (高海千歌 Solo Ver.)",
+      "artist": "高海千歌(CV.伊波杏樹) from Aqours",
+      "has_synced": true,
+      "path": "select/11_決めたよHand_in_Hand_(高海千歌_Solo_Ver.)_高海千歌(CV.伊波杏樹)_from_Aqours.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "決めたよHand in Hand[第1話挿入歌(TVサイズ)]",
+      "artist": "高海千歌 (CV.伊波杏樹)、桜内梨子 (CV.逢田梨香子)、渡辺 曜 (CV.斉藤朱夏)",
+      "has_synced": true,
+      "path": "select/12_決めたよHand_in_Hand[第1話挿入歌(TVサイズ)]_高海千歌_(CV.伊波杏樹)、桜内梨子_(CV.逢田梨香子)、渡辺_曜_(CV.斉藤朱夏).lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "決めたよHand in Hand [第1話挿入歌(TVサイズ)]",
+      "artist": "高海千歌(CV.伊波杏樹)、桜内梨子(CV.逢田梨香子)、渡辺曜(CV.斉藤朱夏)",
+      "has_synced": true,
+      "path": "select/13_決めたよHand_in_Hand_[第1話挿入歌(TVサイズ)]_高海千歌(CV.伊波杏樹)、桜内梨子(CV.逢田梨香子)、渡辺曜(CV.斉藤朱夏).lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "決めたよHand in Hand (Off Vocal)",
+      "artist": "高海千歌(CV.伊波杏樹)、桜内梨子(CV.逢田梨香子)、渡辺曜(CV.斉藤朱夏)",
+      "has_synced": true,
+      "path": "select/14_決めたよHand_in_Hand_(Off_Vocal)_高海千歌(CV.伊波杏樹)、桜内梨子(CV.逢田梨香子)、渡辺曜(CV.斉藤朱夏).lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "決めたよHand in Hand",
+      "artist": "高海千歌(CV.伊波杏樹)、桜内梨子(CV.逢田梨香子)、渡辺曜(CV.斉藤朱夏)",
+      "has_synced": true,
+      "path": "select/15_決めたよHand_in_Hand_高海千歌(CV.伊波杏樹)、桜内梨子(CV.逢田梨香子)、渡辺曜(CV.斉藤朱夏).lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "決めたよHand in Hand (Off Vocal)",
+      "artist": "高海千歌 (CV.伊波杏樹)、桜内梨子 (CV.逢田梨香子)、渡辺 曜 (CV.斉藤朱夏)",
+      "has_synced": true,
+      "path": "select/16_決めたよHand_in_Hand_(Off_Vocal)_高海千歌_(CV.伊波杏樹)、桜内梨子_(CV.逢田梨香子)、渡辺_曜_(CV.斉藤朱夏).lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "決めたよHand in Hand",
+      "artist": "高海千歌 (CV.伊波杏樹)、桜内梨子 (CV.逢田梨香子)、渡辺 曜 (CV.斉藤朱夏)",
+      "has_synced": true,
+      "path": "select/17_決めたよHand_in_Hand_高海千歌_(CV.伊波杏樹)、桜内梨子_(CV.逢田梨香子)、渡辺_曜_(CV.斉藤朱夏).lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "決めたよHand in Hand",
+      "artist": "高海千歌 (CV.伊波杏樹)",
+      "has_synced": true,
+      "path": "select/18_決めたよHand_in_Hand_高海千歌_(CV.伊波杏樹).lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "決めたよHand in Hand",
+      "artist": "キュアアイドル(CV:松岡美里)、キュアウインク(CV:髙橋ミナミ)、キュアキュンキュン(CV:高森奈津美)、キミとアイドルプリキュア♪",
+      "has_synced": false,
+      "path": "select/pl_01_決めたよHand_in_Hand_キュアアイドル(CV_松岡美里)、キュアウインク(CV_髙橋ミナミ)、キュアキュンキュン(CV_高森奈津美)、キミとアイドルプリキュア♪.txt"
+    }
+  ]
+}
